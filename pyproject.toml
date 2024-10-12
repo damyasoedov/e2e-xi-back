@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "python-template"  # change this
+name = "e2e-xi-back"
 version = "0.1.0"
-description = "Python project template by niqzart"  # change this
-authors = ["niqzart <niqzart@gmail.com>"]  # change this
+description = "E2E tests for xi backend"
+authors = ["niqzart <niqzart@gmail.com>", "damyasoedov <dm42rus@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
